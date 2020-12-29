@@ -21,5 +21,8 @@ THEN user selected the video he wants(the first one).
 
 
 Note:
-this is a java code, I have worked 8 months as javascript developer, but I don't know selenium with javascript, and I don't have enough time.
+1. this is a java code, I have worked 8 months as javascript developer, but I don't know selenium with javascript, and I don't have enough time.
 I'm going to learn selenium with javascript in few days.
+
+
+2. line 17 in the code => we can increase the number of ml seconds if it takes more time to download the page.
