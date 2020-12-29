@@ -3,9 +3,10 @@
 in order to run the code : 
 we must install:
 1. jdk. java
-2. selenium-java
-3. chromedriver
-4. git
+2. eclipse
+3. selenium-java
+4. chromedriver
+5. git
 
 
 test scenario in BDD: User successfully selects a video to watch.
