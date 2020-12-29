@@ -1,4 +1,13 @@
 # Webbitz-Test
+
+in order to run the code : 
+we must install:
+1. jdk. java
+2. selenium-java
+3. chromedriver
+4. git
+
+
 test scenario in BDD: User successfully selects a video to watch.
 
 GIVEN user is on webbitz Login page
